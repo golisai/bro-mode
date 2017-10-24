@@ -1,3 +1,7 @@
+;;; bro-mode.el --- Bro major mode
+;; Author: Scott Runnels
+;; Keywords: languages bro
+;; This file is NOT part of GNU Emacs.
 
 ;; This was done for personal edification and steals from Scott Andrew Borton's
 ;; Mode Tutorial with aplomb and apologies.
